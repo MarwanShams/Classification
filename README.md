@@ -5,4 +5,5 @@ this will contain most of my training datasets that i will apply classification 
 - Regression Trees
 - SVM
 - logistic regression
+- Softmax Regression ,One-vs-All & One-vs-One for Multi-class Classification
 
